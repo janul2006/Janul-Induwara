@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Janul Induwara
+#  Hi, I'm Janul Induwara
 
 <p align="center">
   <a href="https://www.google.com/search?q=Janul+Induwara">
@@ -9,7 +9,7 @@
 <p align="center">
   🚀 Software Engineering Undergraduate @ IIT <br>
   🤖 AI | Machine Learning | Computer Vision <br>
-  🔐 Cybersecurity Enthusiast <br>
+  🔐 Machine Learning enthusiastic <br>
   🚗 Building ANPR & IoT Systems  
 </p>
 
@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/janul_induwara">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:janul.induwara@gmail.com">
+  <a href="mailto:janul.induwara2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -38,7 +38,7 @@
 * ✌️ Enjoy building **real-world software systems**
 * ❤️ Passionate about **AI & automation**
 * 🚀 Currently working on **ANPR + IoT integration**
-* 🌱 Learning **Machine Learning & Cybersecurity**
+* 🌱 Learning **Machine Learning & Algorithms**
 * 💬 Ask me about **Python, Java, Web Development**
 
 ---
