@@ -14,6 +14,8 @@
 * 🤖 AI/ML: OpenCV, YOLO, TensorFlow
 * 🛢️ Databases: MySQL
 * ⚙️ Tools: Git, GitHub, VS Code
+* 
+https://img.shields.io/badge/any_text-you_like-blue
 
 ---
 
