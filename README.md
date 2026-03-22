@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 
 * 💻 Languages: Python, Java, JavaScript
-* 🌐 Web: HTML, CSS, Node.js
+* 🌐 Web: HTML, CSS, Node.js, React
 * 🤖 AI/ML: OpenCV, YOLO, TensorFlow
 * 🛢️ Databases: MySQL
 * ⚙️ Tools: Git, GitHub, VS Code
@@ -27,21 +27,23 @@
 
 ### 🌊 Life Below Water Website
 
-* SDG-based website project
+* University website project
 * Clean UI + global CSS + responsive design
 
 ---
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=janul2006\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
 
-* LinkedIn: (add your link)
-* Email: (your email)
+* LinkedIn: (https://www.linkedin.com/in/janul-induwara-7a67a9388/)
+* Email: (janul.induwara@gmail.com)
+* Instagram : (https://www.instagram.com/janul_induwara?igsh=aXQ3eXVmbGU5YTg2)
+* ![scan this to connect](<WhatsApp Image 2026-03-22 at 09.17.33.jpeg>)
 
 ---
 
