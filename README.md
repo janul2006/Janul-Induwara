@@ -99,15 +99,14 @@
 - Developing browser extension for real-time detection  
 - Enhancing detection for zero-day phishing attacks  
 
-🔗 https://github.com/janul2006/phishing-detection-system  
 
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/combo-chart.png"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janul2006&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janul2006&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://nice-readme.vercel.app/stats/?username=janul2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://nice-readme.vercel.app/top-langs/?username=janul2006&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
