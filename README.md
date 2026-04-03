@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/link.png"/> Connect With Me
+## <img src="https://img.icons8.com/ios-filled/20/FFFFFF/link.png"/> Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janul-induwara-7a67a9388/">
@@ -30,7 +30,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/user.png"/> About Me
+## <img src="https://img.icons8.com/ios-filled/20/FFFFFF/user.png"/> About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -42,7 +42,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/settings.png"/> Tech Stack
+## <img src="https://img.icons8.com/ios-filled/20/FFFFFF/settings.png"/> Tech Stack
 
 ### Languages
 <p align="center">
@@ -82,7 +82,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/code.png"/> Currently Working On
+## <img src="https://img.icons8.com/ios-filled/20/FFFFFF/code.png"/> Currently Working On
 
 ### AI-Powered Phishing URL Detection System
 
@@ -102,7 +102,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/combo-chart.png"/> GitHub Stats
+## <img src="https://img.icons8.com/ios-filled/20/FFFFFF/combo-chart.png"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=janul2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -111,7 +111,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/fire-element.png"/> Contribution Streak
+## <img src="https://img.icons8.com/ios-filled/20/FFFFFF/fire-element.png"/> Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=janul2006&theme=tokyonight"/>
@@ -120,6 +120,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/console.png" width="18"/>
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/console.png" width="18"/>
   <b>Always learning, always building real-world systems.</b>
 </p>
