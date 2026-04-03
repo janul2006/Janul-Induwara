@@ -105,8 +105,8 @@
 ## <img src="https://img.icons8.com/ios-filled/20/000000/combo-chart.png"/> GitHub Stats
 
 <p align="center">
-  <img src="https://nice-readme.vercel.app/stats/?username=janul2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://nice-readme.vercel.app/top-langs/?username=janul2006&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=janul2006&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janul2006&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
