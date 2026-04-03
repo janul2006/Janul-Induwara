@@ -82,41 +82,32 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/code.png"/> Featured Projects
+## <img src="https://img.icons8.com/ios-filled/20/000000/code.png"/> Currently Working On
 
-### Ez-Toll Smart Gate System (ANPR)
-- End-to-end ML pipeline using YOLOv8 and PaddleOCR  
-- Achieved 92% accuracy and F1-score of 0.92  
-- Real-time ESP32 integration with REST APIs  
-- Optimized latency by eliminating intermediate storage  
+### AI-Powered Phishing URL Detection System
 
-https://github.com/janul2006/Ez-Toll-SDGP  
+- Designing a real-time phishing detection platform using Machine Learning  
+- Building microservices architecture with FastAPI (ML), Laravel (backend), React (frontend)  
+- Implementing LightGBM-based URL classification  
+- Integrating Redis caching for performance optimization  
+- Developing REST APIs for inter-service communication  
 
----
+### Upcoming Improvements
 
-### Smart Incident Reporting System
-- Full-stack system using React, Spring Boot, MySQL  
-- Implemented geolocation and map-based reporting  
-- Built analytics dashboard with geographic insights  
+- Improving model accuracy with advanced feature engineering  
+- Deploying as a scalable cloud-based system  
+- Developing browser extension for real-time detection  
+- Enhancing detection for zero-day phishing attacks  
 
-https://github.com/janul2006/smart-incident-system  
-
----
-
-### AI-Powered Phishing Detection System
-- Microservices architecture using FastAPI, Laravel, React  
-- Real-time phishing detection using LightGBM  
-- Redis caching for performance optimization  
-
-https://github.com/janul2006/phishing-detection-system  
+🔗 https://github.com/janul2006/phishing-detection-system  
 
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/combo-chart.png"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janul2006&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janul2006&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=janul2006&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janul2006&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
